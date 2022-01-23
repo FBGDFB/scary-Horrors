@@ -1,0 +1,118 @@
+{
+    "Virtion": 5,
+    "Data": [
+        {
+            "Name": "Ms Judy Dellfire",
+            "Nomber": "+02938440",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers/scary.teacher.png",
+            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw/Chat.json",
+            "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw/voice1.mp3",
+            "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw/video1.mp4",
+            "Best": true,
+            "New": true,
+            "Coins": 10
+        },
+        {
+            "Name": "Ms. Onyx Grudge",
+            "Nomber": "+2007399440",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers/2.png",
+            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw1/Chat.json",
+            "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw1/hero_voice.mp3",
+            "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw1/hero_video.mp4",
+            "Best": true,
+            "New": true,
+            "Coins": 12
+        },
+        {
+            "Name": "Ms. jodie bates",
+            "Nomber": "+202987080",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers/3.jpg",
+            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw2/Chat.json",
+            "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw2/hero_voice.mp3",
+            "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw2/hero_video.mp4",
+            "Best": false,
+            "New": true,
+            "Coins": 15
+        },
+        {
+            "Name": "Ms.Yvanni wrinkleburg",
+            "Nomber": "+09923 51 87 29",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers/4.jpg",
+            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw3/Chat.json",
+            "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw2/hero_voice.mp3",
+            "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw3/cdv.mp4",
+            "Best": false,
+            "New": false,
+            "Coins": 15
+        },
+        {
+            "Name": "Mr.Steven black",
+            "Nomber": "+09443 33 45 22",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers/44.jpg",
+            "ChatDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw4/Chat.json",
+            "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw4/neigh_audio.mp3",
+            "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw4/neigh_video2.mp4",
+            "Best": true,
+            "New": false,
+            "Coins": 15
+        },
+         {
+            "Name": "Mr. Ice Cream",
+            "Nomber": "+09633 82 45 32",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw6/icecreamscary.jpg",
+            "ChatDataUrl": " ",
+            "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw6/audio_ice_scream.mp3",
+            "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw6/video_ice_scream.mp4",
+            "Best": true,
+            "New": false,
+            "Coins":0
+        },
+        {
+            "Name": "Mr. Creepy Clown",
+            "Nomber": "+09600 80 40 02",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw8/ScaryClone.jpg",
+            "ChatDataUrl": " ",
+            "CallDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw8/sans_audio.mp3",
+            "VideoDataUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/raw8/sans_video.mp4",
+            "Best": true,
+            "New": false,
+            "Coins": 0
+        },
+        {
+            "Name": "Scary Sonic",
+            "Nomber": "+2029088230",
+            "Icon": {
+                "instanceID": 0
+            },
+            "IconUrl": "https://raw.githubusercontent.com/FBGDFB/Scary-Teachers/main/teachers/Scary%20sonic.jpg",
+            "ChatDataUrl": "http://194.163.154.196/allchats/scarysonic1E.json",
+            "CallDataUrl": "http://194.163.154.196/allaudios/scarysonic1.mp3",
+            "VideoDataUrl": "http://194.163.154.196/allvideos/scarysonic1.mp4",
+            "Best": true,
+            "New": false,
+            "Coins": 0
+        }
+         
+    ]
+}
